@@ -19,6 +19,13 @@
     height: 100%;
 }
 
-.background-image {
-    background-image: url(/assets/img/airbus-nh90.jpg);
+.cor {
+    color: rgb(25, 3, 85);
+}
+
+.ft {
+    font-size: 45pt;
+}
+.bgd {
+    background-color: rgb(170, 170, 170);
 }
