@@ -6,7 +6,8 @@
 .responsive-video {
     position: relative;
     padding-bottom: 56.25%;
-    padding-top: 60px; overflow: hidden;
+    padding-top: 60px;
+    overflow: hidden;
 }
 
 .responsive-video iframe,
@@ -26,6 +27,30 @@
 .ft {
     font-size: 45pt;
 }
+
 .bgd {
     background-color: rgb(170, 170, 170);
+}
+
+body {
+    background: -webkit-gradient(linear, left top, right top, from(#800080), to(#6de0e0)) no-repeat;
+    filter: progid: DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#800080', EndColorStr='#6de0e0');
+}
+
+nav-bg {
+    background: -webkit-gradient(linear, left top, right top, from(#800080), to(#6de0e0)) no-repeat;
+    filter: progid: DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#800080', EndColorStr='#6de0e0');
+}
+
+.bgd-gradient {
+    background: -webkit-gradient(linear, left top, right top, from(#4652ff), to(#6de0e0)) no-repeat;
+    filter: progid: DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#800080', EndColorStr='#6de0e0');
+}
+
+.tamanho-fonte {
+    font-size: 29pt;
+}
+
+.cor-drop {
+    background: -webkit-gradient(linear, left top, right top, from(#c551c5), to(#9828c4)) no-repeat;
 }
